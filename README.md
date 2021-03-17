@@ -28,3 +28,4 @@
 ## 📞 Contact
 
 ![Wechat](https://img.shields.io/badge/-LaamGinghong-333333?style=flat&logo=wechat)
+![Gmail](https://img.shields.io/badge/-laamginghong1996@gmail.com-333333?style=flat&logo=Gmail)
