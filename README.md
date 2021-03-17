@@ -23,9 +23,6 @@
 <p>
   <img align="center" width="49.5%" src="https://github-readme-stats.vercel.app/api?username=LaamGinghong&show_icons=true&count_private=true&theme=buefy" />
   <img align="center" width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaamGinghong&layout=compact&hide=html,vue"/>
-  <a href="https://github.com/IduxFE/idux"><img align="center" width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=LaamGinghong&repo=idux" /></a>
-  <a href="https://github.com/LaamGinghong/hooks"><img align="center" width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=LaamGinghong&repo=hooks" /></a>
-  <a href="https://github.com/i-want-offer/FE-Essay"><img align="center" width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=i-want-offer&repo=FE-Essay" /></a>
 </p> 
 
 ## 📞 Contact
