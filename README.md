@@ -4,7 +4,6 @@
 
 - 😀 Frontend developer, mainly focus on 
   - 😋 [idux](https://github.com/IduxFE/idux)
-  - 🤠 [hooks](https://github.com/LaamGinghong/hooks)
 - 💻 Working for [Sangfor](https://www.sangfor.com/en)
 - 📖 Some [FE-Essay](https://github.com/i-want-offer/FE-Essay)
 
