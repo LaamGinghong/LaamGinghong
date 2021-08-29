@@ -21,7 +21,7 @@
 
 <p>
   <img align="center" width="49.5%" src="https://github-readme-stats.vercel.app/api?username=LaamGinghong&show_icons=true&count_private=true&theme=buefy" />
-  <img align="center" width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaamGinghong&layout=compact&hide=html,vue"/>
+  <img align="center" width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaamGinghong&layout=compact&hide=html,vue,shell,css,less"/>
 </p> 
 
 ## 📞 Contact
