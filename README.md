@@ -2,11 +2,8 @@
 
 ## 👋 About me
 
-- 😀 Frontend developer, mainly focus on 
-  - 😋 [idux](https://github.com/IduxFE/idux)
-  - 😋 [form-hook](https://github.com/LaamGinghong/form-hook)
-- 💻 Working for [ByteDance](https://bytedance.com/zh/) - [VolcEngine](https://www.volcengine.com/)
-- 📖 Some [FE-Essay](https://github.com/i-want-offer/FE-Essay)
+- 😀 Frontend developer
+- 💻 Working for [VolcEngine](https://www.volcengine.com/) - [ByteAir](https://www.volcengine.com/product/rec)
 
 ## 🛠 Most Technology stack
 
@@ -15,7 +12,6 @@
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=C3002F)
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
 ![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
-
 ![Webstorm](https://img.shields.io/badge/-Webstorm-333333?style=flat&logo=webstorm)
 
 ## 📊 statistics
@@ -27,5 +23,11 @@
 
 ## 📞 Contact
 
-![Wechat](https://img.shields.io/badge/-LaamGinghong-333333?style=flat&logo=wechat)
 ![Gmail](https://img.shields.io/badge/-laamginghong1996@gmail.com-333333?style=flat&logo=Gmail)
+
+
+## 👊 Join Us
+
+Scan the QR code to send your resume. We look forward to your joining us. 😘
+
+![79441653899960_ pic_hd](https://user-images.githubusercontent.com/33472924/172117085-1c1768e9-d44f-4d07-a915-db0370f3ef0c.jpg)
