@@ -24,10 +24,3 @@
 ## 📞 Contact
 
 ![Gmail](https://img.shields.io/badge/-laamginghong1996@gmail.com-333333?style=flat&logo=Gmail)
-
-
-## 👊 Join Us
-
-Scan the QR code to send your resume. We look forward to your joining us. 😘
-
-![79441653899960_ pic_hd](https://user-images.githubusercontent.com/33472924/172117085-1c1768e9-d44f-4d07-a915-db0370f3ef0c.jpg)
